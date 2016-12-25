@@ -2,7 +2,6 @@
 #	 Implementar as demais mensagens MIDI (atualmente apenas NOTE_ON)
 
 import serial
-
 from colors import bcolors
 
 R  = bcolors.RED
